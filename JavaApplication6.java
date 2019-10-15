@@ -6,7 +6,11 @@ public class JavaApplication6 {
         int x=10;
         int y=30;
 int total=x+y;
+ int sub=x-y;
+   int div=x/y;     
 System.out.println("x+y="+(x+y));
+        System.out.println("x-y="+(x-y));
+        System.out.println("x/y="+(x/y));
     }
     
 }
